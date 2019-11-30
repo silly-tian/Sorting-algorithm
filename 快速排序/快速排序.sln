@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "快速排序", "快速排序\快速排序.vcxproj", "{EA2C2106-FCC9-4D99-8004-03F39A68227D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2C2106-FCC9-4D99-8004-03F39A68227D}.Debug|x64.ActiveCfg = Debug|x64
+		{EA2C2106-FCC9-4D99-8004-03F39A68227D}.Debug|x64.Build.0 = Debug|x64
+		{EA2C2106-FCC9-4D99-8004-03F39A68227D}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA2C2106-FCC9-4D99-8004-03F39A68227D}.Debug|x86.Build.0 = Debug|Win32
+		{EA2C2106-FCC9-4D99-8004-03F39A68227D}.Release|x64.ActiveCfg = Release|x64
+		{EA2C2106-FCC9-4D99-8004-03F39A68227D}.Release|x64.Build.0 = Release|x64
+		{EA2C2106-FCC9-4D99-8004-03F39A68227D}.Release|x86.ActiveCfg = Release|Win32
+		{EA2C2106-FCC9-4D99-8004-03F39A68227D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E21BE1F-AEE1-4774-B989-C0BC3AEF15B7}
+	EndGlobalSection
+EndGlobal
